@@ -3,7 +3,7 @@
 ## Overview 
 In this project we are refactoring the code of the website Horiseon. Making modifications to code while keeping it running as intended. 
 
-[Orginalcode.html.png](../assets/images/Originalcode.html.png) 
+<img src="(../assets/images/.html.png alt="OG code /> 
 ---
 ## Features
 In this code you'll be able to go to desired links on the webpage. 
